@@ -1,4 +1,4 @@
-# Classic_Impersonator
+# CLASSIC IMPERSONATOR
 
 ## This chrome extension allows you to replace your live video with animated characters during a google meets video call. 
 
